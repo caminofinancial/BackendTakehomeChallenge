@@ -10,7 +10,7 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 2. Implement the API using Django Rest Framework. Use Docker for extra credit.
 3. Write unit test suites for all your functions.
 4. Set up your code on heroku, linode or a server of your choice for a live demostration.
-5. When you are done, notify your recruiter through Indeed (or other hiring platform) and provide links to source code and your live server.
+5. When you are done, notify your us through Indeed (or other hiring platform) and provide links to source code and your live server.
 
 ### Detail requirements on the API EndPoints to implement
 1. Need one endpoint called loanapp/ to take application. Should be able to consume this json.
