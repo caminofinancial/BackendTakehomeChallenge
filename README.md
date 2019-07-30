@@ -13,7 +13,7 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 5. When you are done, notify your us through Indeed (or other hiring platform) and provide links to source code and your live server.
 
 ### Detail requirements on the API EndPoints to implement
-1. Need one endpoint called loanapp/ to take application. Should be able to consume this json.
+1. Need one endpoint called loanapp/ to take application. Should be able to consume this [json](https://github.com/caminofinancial/BackendTakehomeChallenge/blob/master/sample.json).
 2. Need one endpoint called status/ to provide a status on an application submitted given a loanapp id. Be creative about the status to return.
 3. Develop some kind of algorithm to recognize duplicates in app submissions. A person could submit now on the phone and later on a desktop.
 4. Be mindful that each business can have one or multiple business owners.
