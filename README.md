@@ -16,6 +16,8 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 1. Need one endpoint called loanapp/ to take application. Should be able to consume this json.
 2. Need one endpoint called status/ to provide a status on an application submitted given a loanapp id. Be creative about the status to return.
 3. Develop some kind of algorithm to recognize duplicates in app submissions. A person could submit now on the phone and later on a desktop.
+4. Be mindful that each business can have one or multiple business owners.
+5. Save all data in models.
 
 ## Tips
 1. Use any libraries or tools as you see fit.
