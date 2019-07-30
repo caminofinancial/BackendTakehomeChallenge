@@ -15,9 +15,9 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 ### Detail requirements on the API EndPoints to implement
 1. Need one endpoint called loanapp/ to take application. Should be able to consume this [json](https://github.com/caminofinancial/BackendTakehomeChallenge/blob/master/sample.json).
 2. Need one endpoint called status/ to provide a status on an application submitted given a loanapp id. Be creative about the status to return.
-3. Develop some kind of algorithm to recognize duplicates in app submissions. A person could submit now on the phone and later on a desktop.
+3. Develop some kind of algorithm to recognize duplicates in app submissions. A person could submit now on the phone and later on a desktop. A person could submit a new app 4 months down the road with almost the same information but a new mobile number. When a duplicate is found, the key thing to do is to update the original record and not to overwrite. And allow some ways to make note of this.
 4. Be mindful that each business can have one or multiple business owners.
-5. Save all data in models.
+5. Save data in models.
 
 ## Tips
 1. Use any libraries or tools as you see fit.
