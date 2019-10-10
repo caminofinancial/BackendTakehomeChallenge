@@ -9,7 +9,7 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 1. Design a RESTful API that will take an online application for a business that wants a loan.
 2. Implement the API using Django Rest Framework. Use Docker for extra credit.
 3. Write unit test suites for all your functions.
-4. Set up your code on heroku, linode or a server of your choice for a live demostration.
+4. (Extra Credit) Set up your code on heroku, linode or a server of your choice for a live demostration.
 5. When you are done, notify your us through Indeed (or other hiring platform) and provide links to source code and your live server.
 
 ### Detail requirements on the API EndPoints to implement
@@ -22,3 +22,4 @@ Greetings. The Master Control Program has chosen you to serve your system on the
 ## Tips
 1. Use any libraries or tools as you see fit.
 2. Be creative and deliver on-time.
+3. A good template / tutorial to use https://testdriven.io/blog/deploying-django-to-heroku-with-docker/
